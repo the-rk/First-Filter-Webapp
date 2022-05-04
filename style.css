@@ -8,12 +8,12 @@ h3 {
 
 #color:hover
 {
-    background-color:brown;
+    background-color:red;
 }
 
 canvas{
     animation-name: example;
-    animation-duration: 4s;
+    animation-duration: 2s;
     animation-iteration-count: infinite;
 }
 @keyframes example {
